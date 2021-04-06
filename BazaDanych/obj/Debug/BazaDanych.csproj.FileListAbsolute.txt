@@ -1,0 +1,16 @@
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\BazaDanych\BazaDanych\bin\Debug\BazaDanych.exe.config
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\BazaDanych\BazaDanych\bin\Debug\BazaDanych.exe
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\BazaDanych\BazaDanych\bin\Debug\BazaDanych.pdb
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\BazaDanych\BazaDanych\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\BazaDanych\BazaDanych\bin\Debug\Google.Protobuf.dll
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\BazaDanych\BazaDanych\bin\Debug\MySql.Data.dll
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\BazaDanych\BazaDanych\bin\Debug\Google.Protobuf.xml
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\BazaDanych\BazaDanych\bin\Debug\MySql.Data.xml
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\BazaDanych\BazaDanych\obj\Debug\BazaDanych.csprojAssemblyReference.cache
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\BazaDanych\BazaDanych\obj\Debug\BazaDanych.Form1.resources
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\BazaDanych\BazaDanych\obj\Debug\BazaDanych.Properties.Resources.resources
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\BazaDanych\BazaDanych\obj\Debug\BazaDanych.csproj.GenerateResource.cache
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\BazaDanych\BazaDanych\obj\Debug\BazaDanych.csproj.CoreCompileInputs.cache
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\BazaDanych\BazaDanych\obj\Debug\BazaDanych.csproj.CopyComplete
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\BazaDanych\BazaDanych\obj\Debug\BazaDanych.exe
+C:\Users\antiq\Desktop\studia\programowanie\C# 2 część\BazaDanych\BazaDanych\obj\Debug\BazaDanych.pdb
